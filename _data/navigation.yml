@@ -1,6 +1,6 @@
 # main links
 main:
-#  - title: "Posts"
-#    url: /year-archive/
-#  - title: "Sitemap"
-#    url: /sitemap/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Sitemap"
+    url: /sitemap/

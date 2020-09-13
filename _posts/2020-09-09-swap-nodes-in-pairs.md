@@ -1,5 +1,6 @@
 ---
 title:  "Leetcode-两两交换链表中的节点解题分析"
+category: "algorithm"
 ---
 
 ## 题目描述

@@ -1,5 +1,6 @@
 ---
 title:  "Leetcode-有效的字母异位词解题分析"
+category: "algorithm"
 ---
 
 ## 题目描述

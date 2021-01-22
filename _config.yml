@@ -21,7 +21,7 @@ baseurl                  : "/CornFieldChase"
 repository               : "sherk7monster/CornFieldChase"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Finally I find you . <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Finally I find you" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

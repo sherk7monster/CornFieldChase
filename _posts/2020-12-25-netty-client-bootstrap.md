@@ -3,10 +3,12 @@ title:  "Netty-使用Bootstrap进行客户端初始化的分析"
 category: "netty"
 ---
 
+###### 2020-12-25 记
+
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 <span id="busuanzi_container_page_pv">
-  本文总阅读量&nbsp;<span id="busuanzi_value_page_pv"></span>&nbsp;次
+  阅读量&nbsp;<span id="busuanzi_value_page_pv"></span>&nbsp;次
 </span>
 
 

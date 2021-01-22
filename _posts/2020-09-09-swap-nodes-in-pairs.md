@@ -3,6 +3,12 @@ title:  "Leetcode-两两交换链表中的节点解题分析"
 category: "algorithm"
 ---
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+<span id="busuanzi_container_page_pv">
+  本文总阅读量&nbsp;<span id="busuanzi_value_page_pv"></span>&nbsp;次
+</span>
+
 ## 题目描述
 
 ```

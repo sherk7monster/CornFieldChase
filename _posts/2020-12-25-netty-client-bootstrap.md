@@ -3,6 +3,13 @@ title:  "Netty-使用Bootstrap进行客户端初始化的分析"
 category: "netty"
 ---
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+<span id="busuanzi_container_page_pv">
+  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
+
+
 ## 先以一个Netty官网的EchoClient为例
 
 Bootstrap 是用来初始化 Netty 客户端的工厂类，客户端使用 NioSocketChannel 作为 Socket 进行读写。

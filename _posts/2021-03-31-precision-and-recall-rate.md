@@ -56,11 +56,13 @@ category: "model"
 ### 准确率
 
 对角线位置为准确率，即预测值和实际值相等的情况，则此时准确率为：
+
 准确率 = ( 3 + 2 ) / 8 = 0.625
 
 ### 召回率
 
 召回率是预测出的真实异常个数（就是对角线预测和实际都为1的场景）比上实际异常个数（实际第二列的个数和）：
+
 召回率 = 2 / ( 2 + 2 ) = 0.5
 
 ### 准确率和召回率的关系（P-R曲线）
@@ -69,5 +71,5 @@ category: "model"
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/model/precision-recall.jpg){: .align-center}
 
-P：Precision
-R：Recall
+P：Precision , R：Recall
+{: .notice--info}

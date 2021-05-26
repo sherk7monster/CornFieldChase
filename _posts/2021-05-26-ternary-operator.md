@@ -60,17 +60,14 @@ Exception in thread "main" java.lang.NullPointerException
 
 #### 执行反编译
 
-```shell script
-
+```text
 javac -g Demo.java
 javap -c Demo
-
 ```
 
 #### 反编译结果
 
-```shell script
-
+```text
 Compiled from "Demo.java"
 public class test.Demo {
   public test.Demo();
@@ -116,17 +113,14 @@ public class test.Demo {
       21: invokestatic  #13                 // Method java/lang/Integer.valueOf:(I)Ljava/lang/Integer;
       24: areturn
 }
-
 ```
 
 #### 猜测
 
 重点看 `strToInt()` 方法反编译的代码，发现有这么一段
 
-```shell script
-
+```text
 8: invokevirtual #10                 // Method java/lang/Integer.intValue:()I
-
 ```
 
 再结合代码
